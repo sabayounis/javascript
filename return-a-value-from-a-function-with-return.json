@@ -1,0 +1,1 @@
+{"index.js":"// Example\nfunction minusSeven(num) {\n  return num - 7;\n}\n\n// Only change code below this line\n\nfunction timesFive(n){\n\nreturn n*5;\n}\nvar ans = timesFive(6);\n//console.log(timesFive(4));\nconsole.log(minusSeven(10));"}
